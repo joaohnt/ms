@@ -1,4 +1,4 @@
-package com.joaozada.hruser.entities.config;
+package com.joaozada.hruser.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
