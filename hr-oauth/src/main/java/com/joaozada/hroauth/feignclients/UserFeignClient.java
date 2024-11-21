@@ -1,6 +1,6 @@
-package com.joaozada.hroath.feignclients;
+package com.joaozada.hroauth.feignclients;
 
-import com.joaozada.hroath.entities.User;
+import com.joaozada.hroauth.entities.User;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;

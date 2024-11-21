@@ -1,4 +1,4 @@
-package com.joaozada.hroath.entities;
+package com.joaozada.hroauth.entities;
 
 import java.io.Serializable;
 import java.util.Objects;

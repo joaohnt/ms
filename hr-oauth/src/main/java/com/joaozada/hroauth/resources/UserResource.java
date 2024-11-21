@@ -1,7 +1,7 @@
-package com.joaozada.hroath.resources;
+package com.joaozada.hroauth.resources;
 
-import com.joaozada.hroath.entities.User;
-import com.joaozada.hroath.services.UserService;
+import com.joaozada.hroauth.entities.User;
+import com.joaozada.hroauth.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
